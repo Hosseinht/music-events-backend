@@ -1,3 +1,9 @@
-# Strapi application
+# Meowsical Events Strapi backend
 
-A quick description of your strapi application
+![Meowsical Events](./public/images/meowsicalevents.png)
+
+### Demo
+https://meowsicevents.vercel.app/
+
+### NextJS frontend
+https://github.com/Hosseinht/music-events
